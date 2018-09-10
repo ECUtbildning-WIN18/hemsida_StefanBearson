@@ -9,4 +9,4 @@
 
 Förnamn | Efternamn
 ----|-----
-Stefan|Petterson 
+Stefan|Björnson
